@@ -72,8 +72,8 @@ p {
     box-shadow: none;
 }
 .navbar .brand img {
-    width:196px;
-    height:62px;
+    width:70px;
+    height:70px;
 }
 .navbar .nav > li > a {
     text-transform:uppercase;
